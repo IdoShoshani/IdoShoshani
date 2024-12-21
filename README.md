@@ -30,7 +30,7 @@ current_focus:
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 
 ## 📊 GitHub Activity
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=IdoShoshani&short_numbers=true&mode=weekly)](https://git.io/streak-stats)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=YourUsername&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
