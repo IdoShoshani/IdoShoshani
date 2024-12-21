@@ -1,8 +1,7 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Ido Shoshani 👋
 
-Fullstack Developer | DevOps Enthusiast | Cloud Specialist
+DevOps Engineer | System Administrator
 
-[![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yourwebsite.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/ido-shoshani123/))
 
 ```yaml
